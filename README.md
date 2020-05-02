@@ -1,4 +1,5 @@
 # ML_Notes
+机器学习笔记  
 Notes about theory of Machine Learning
 
 This is supposed to be a series of Notes about Machine Learning (ML) but it is not finished yet.  
